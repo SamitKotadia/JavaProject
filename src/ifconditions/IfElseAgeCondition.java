@@ -9,7 +9,7 @@ public class IfElseAgeCondition {
     }  else if (age>=21 && age <=50){
            System.out.println("Healthy Man");
        } else if (age<=51 && age>=75){
-           System.out.println("Retired Man");
+           System.out.println("Retired Man"); //this is my update
        } else {
            System.out.println("Senior Citizen");
        }
