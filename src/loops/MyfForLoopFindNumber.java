@@ -1,6 +1,6 @@
 package loops;
 
-public class FindNumber {
+public class MyfForLoopFindNumber {
     public static void main(String[] args) {
         findEven(-5, 9);
         findOdd(-5,9);
