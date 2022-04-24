@@ -1,4 +1,4 @@
-package castingTypeClass;
+package mathsClass;
 
 public class mathClassDemo {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package Arrayscondition;
-
-import java.util.Arrays;
+package arraysCondition;
 
 public class ArraysString {
     public static void main(String[] args) {
