@@ -2,7 +2,7 @@ package castingTypeClass;
 
 import java.util.Random;
 
-public class RandomValueClass {
+public class RandomValue {
     public static void main(String[] args) {
 
         Random random = new Random();

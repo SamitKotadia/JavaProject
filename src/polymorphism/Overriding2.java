@@ -1,8 +1,8 @@
 package polymorphism;
 
-public class overridingClass2 extends overridingClass1{
+public class Overriding2 extends Overriding1 {
     public static void main(String[] args) {
-    overridingClass2 overridingClass2 = new overridingClass2();
+    Overriding2 overridingClass2 = new Overriding2();
     overridingClass2.myName();
     overridingClass2.maxNumber(23,55);
     }

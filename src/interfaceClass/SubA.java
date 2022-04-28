@@ -1,8 +1,8 @@
 package interfaceClass;
 
-public class ClassA implements InterfaceA {
+public class SubA implements InterfaceA {
     public static void main(String[] args) {
-        ClassA classA = new ClassA();
+        SubA classA = new SubA();
         classA.methodA();
     }
 

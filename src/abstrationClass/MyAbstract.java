@@ -1,6 +1,6 @@
 package abstrationClass;
 
-abstract public class MyAbstractClass {
+abstract public class MyAbstract {
 
     abstract void myPrintName();
 

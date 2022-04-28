@@ -2,10 +2,10 @@ package interfaceClass;
 
 // need to write "implements" keyword for interface to class level inheritance
 
-public class ClassB implements InterfaceA, InterfaceB {
+public class SubB implements InterfaceA, InterfaceB {
 
     public static void main(String[] args) {
-        ClassB classB = new ClassB(); // call method
+        SubB classB = new SubB(); // call method
         classB.methodA();
         classB.methodB();
     }

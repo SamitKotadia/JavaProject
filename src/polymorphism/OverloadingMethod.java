@@ -1,8 +1,8 @@
 package polymorphism;
 
-public class overloadingMethod {
+public class OverloadingMethod {
     public static void main(String[] args) {
-        overloadingMethod overloadingMethod = new overloadingMethod();
+        OverloadingMethod overloadingMethod = new OverloadingMethod();
         System.out.println(overloadingMethod.name(1));
         overloadingMethod.name("samit", "kotadia");
     }

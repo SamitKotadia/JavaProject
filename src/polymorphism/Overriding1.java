@@ -1,9 +1,9 @@
 package polymorphism;
 
-public class overridingClass1 {
+public class Overriding1 {
 
     public static void main(String[] args) {
-    overridingClass1 overridingClass1 = new overridingClass1();
+    Overriding1 overridingClass1 = new Overriding1();
     overridingClass1.myName();
     overridingClass1.maxNumber(20,43);
     }

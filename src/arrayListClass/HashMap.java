@@ -1,11 +1,8 @@
 package arrayListClass;
 
-import java.util.HashMap;
-import java.util.SortedMap;
-
-public class HashMapClass {
+public class HashMap {
     public static void main(String[] args) {
-        HashMap<Integer, String> map = new HashMap<>();
+        java.util.HashMap<Integer, String> map = new java.util.HashMap<>();
 
         map.put(12, "Mr W");
         map.put(15, "Mr X");

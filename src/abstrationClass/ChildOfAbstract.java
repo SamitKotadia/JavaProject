@@ -1,6 +1,6 @@
 package abstrationClass;
 
-abstract public class ChildOfAbstractClass extends MyAbstractClass {
+abstract public class ChildOfAbstract extends MyAbstract {
 
 
     @Override

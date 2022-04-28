@@ -1,8 +1,6 @@
 package exceptionClass;
 
-import javax.swing.*;
-
-public class ThrowClass {
+public class Throw {
     public static void main(String[] args) {
         checkAge(15); //if age is above 18 then it's not throw any exception
     }

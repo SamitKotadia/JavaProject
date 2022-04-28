@@ -1,10 +1,9 @@
 package arrayListClass;
 
-import java.util.ArrayList;
 // in array list class we can add duplicate values //null value not allowed
-public class ArrayListClass {
+public class ArrayList {
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<String>(); // array list method
+        java.util.ArrayList<String> list = new java.util.ArrayList<String>(); // array list method
         //List<Integer> list = new ArrayList<Integer>(); // we can add any data type but we need to write full type name
         //we can directly write list, list is child and its assign to parent i.e arraylist
         list.add("Mr A");

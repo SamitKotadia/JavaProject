@@ -1,11 +1,10 @@
 package arrayListClass;
 
-import java.util.Map;
 import java.util.TreeMap;
 
-public class MapClass {
+public class Map {
     public static void main(String[] args) {
-        Map<Integer,String> map = new TreeMap<Integer,String>();
+        java.util.Map<Integer,String> map = new TreeMap<Integer,String>();
         map.put(12,"Mr A");
         map.put(15,"Mr B");
         map.put(15,"Mr B"); //Duplicate value not allowed

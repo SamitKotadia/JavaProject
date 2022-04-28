@@ -1,9 +1,8 @@
 package arrayListClass;
 
-import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 
-public class LinkHasListClass {
+public class LinkHasList {
     public static void main(String[] args) {
         LinkedHashSet<String> linkedHashSet = new LinkedHashSet<String>();
         linkedHashSet.add("Mr X");
